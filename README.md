@@ -9,6 +9,6 @@ apt update && apt upgrade
 pkg install git
 
 git clone 
-https://github.com/MothyMan/Mythsec-Lite-DDOS-Tool-
+https://github.com/MothyMan/Mythsec-Lite-DDOS-Tool
 
 
